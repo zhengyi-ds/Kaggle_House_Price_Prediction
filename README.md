@@ -76,7 +76,7 @@ The final predictions are saved in `submission_gbm.csv`.
 2. Place `train.csv` and `test.csv` in the `data/` directory.
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook house_prices.ipynb
+   jupyter notebook main.ipynb
    ```
 4. Run all cells to preprocess the data, train the model, and generate the submission file.
 
